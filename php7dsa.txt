@@ -1,0 +1,32 @@
+Abstract Data Types
+    Stack - Last In First Out(Push and pop)
+    Queue - First In First out(enqueue and dequeue)
+        enqueue - adding an element at the end of the Queue
+        dequeue - removing an element from the front of the Queue
+
+Data Structures
+Linear Data Structures - Stack, Queue, Array, List 
+    data is stored in a sequential manner
+Non Linear data Structures - data is not stored in a sequential manner 
+    examples include graph and tree
+
+data structures - struct, priority queue, linked list, doubly linked list, stack, queue, list
+                -array, set, map, tree, graph, heap.
+
+
+Struct- container of names which can be easily accessed using names
+Linked list - collection of nodes
+in a singly linked list, we can only go forward
+Doubly linked list - can move back and forth
+    -stores both the next node and the previous node
+
+set- stores certain values but the values are not in any order.
+    -there are no repeated values in the set
+
+sometimes a set can be sorted and we call it an ordered set
+A map is a collection of key and value pairs..we can liken it to an associative array
+graph - non Linear data struture that contains finite number of vertices, edges, arcs or nodes
+
+Characteristics of Algorithms
+    -input -output -precision - unambiquity - independent - finite
+
